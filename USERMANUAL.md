@@ -1,7 +1,5 @@
 # Kitzy’s personal user manual
 
-*Pronouns: they/them/theirs or she/her/hers (either is equally fine).*  
-
 *Because people don’t come with instruction booklets (but wouldn’t it be easier if they did?). This is mine. It’s here to help you understand how I tick, how I work best, and how we can collaborate without stepping on rakes together.*  
 
 ---
@@ -15,8 +13,17 @@ I’m a mix of big-heartedness, curiosity, and creativity. My Enneagram results 
 I’m also **[AuDHD](https://embrace-autism.com/an-introduction-to-audhd/) (autism + ADHD)**, which colors how I think and work:  
 - I usually have about seven trains of thought running at once, sometimes in different directions, sometimes colliding in a glorious mental pile-up.  
 - Time blindness is real. If I’m late to a meeting, I didn’t forget you—I just fell down a rabbit hole. A quick ping is like tossing me a rope.  
-- I sometimes interrupt because I can already see where you’re going, but I’m learning to hit pause and let people land their sentences.  
+- I sometimes interrupt because I think I can already see where you’re going, but I’m learning to hit pause and let people land their sentences.  
 - Also, did anyone see where I left my AirPods? No, seriously.  
+
+---
+
+## My values
+- **Empathy as a baseline:** I believe work (and life) is better when people look out for each other. Thoughtfulness and small acts of care go a long way with me.  
+- **Curiosity first:** I’d rather ask questions and explore possibilities than pretend to know everything. For me, curiosity is the gateway to clarity.  
+- **Authenticity over polish:** I’d rather things be real and imperfect than fake and shiny. I value honesty and transparency, even when the truth is messy.  
+- **Growth and learning:** Mistakes happen; what matters is taking responsibility, adapting, and improving. I’ll own my work and my missteps, and I appreciate when others do too.  
+- **Playfulness:** Humor and lightness make hard work more sustainable. I believe we can take our work seriously without taking *ourselves* too seriously.  
 
 ---
 
@@ -40,16 +47,25 @@ I’m also **[AuDHD](https://embrace-autism.com/an-introduction-to-audhd/) (auti
 - I sometimes overcommit because my enthusiasm writes checks my calendar can’t cash. A reminder to pace myself is always welcome.  
 - I can get so busy helping others that I forget to drink water or breathe. Gentle nudges to take care of myself are appreciated.  
 - My brain alternates between hyperfocus (deep in the matrix) and scatter (every shiny thing is suddenly fascinating). Both are normal settings for me.  
-- Authenticity matters to me. If something’s off, just tell me—I’ll take honesty over guesswork any day.  
+- Authenticity matters to me. If something’s off, just tell me. I’ll take honesty over guesswork any day.  
 
 ---
 
-## How to support me when I’m stressed
+## How to support me
 - **Watch for signals.** If I get snappy, bossy, or perfectionistic, I’m probably feeling unappreciated or overloaded. A little acknowledgment helps more than you’d think.  
 - **Remind me of boundaries.** Sometimes I try to be everyone’s emotional support human. Remind me it’s okay to step back.  
 - **Anchor me in priorities.** When stress hits, my inner Type 7 scatters like confetti. Help me pick up the right piece first.  
 - **Allow my moods.** My Type 4 side sometimes goes “moody indie soundtrack.” I don’t need fixing—just space.  
 - **Humor works.** A well-timed joke resets me better than a motivational poster ever could.  
+
+---
+
+## How I like to receive feedback
+- **Direct is best.** I don’t do well with vague hints. If something’s off, say it plainly.  
+- **Kindness matters.** I’m open to constructive criticism, but I’ll absorb it more easily if it’s framed with care.  
+- **Timely > perfect.** Don’t wait weeks to craft the perfect message, tell me soon while it’s fresh and actionable.  
+- **Private first, public later.** Critical feedback lands best in private. Positive feedback can be anywhere (and I’ll probably beam like a proud raccoon).  
+- **Pair it with clarity.** If you can, include specific examples or suggestions. Otherwise my brain may spiral trying to fill in the blanks.  
 
 ---
 
