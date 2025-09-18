@@ -1,12 +1,12 @@
 # Hi, I'm Kitzy 👋
 
-**Customer Support Engineer @fleetdm | Infrastructure Enthusiast | Dog & Motorcycle Lover**
+**Customer Support Engineer at [@fleetdm](https://github.com/fleetdm) | Infrastructure Nerd | Dog & Motorcycle Lover**
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently a Customer Support Engineer at [FleetDM](https://fleetdm.com).
+- 💼 Currently a Customer Support Engineer at [@fleetdm](https://github.com/fleetdm).
 - 🏆 Over 15 years in endpoint management & IT engineering.
 - 🛠️ Previously Sr. IT Engineering Manager at Fastly and Professional Services Engineer at Jamf.
 - 🍏 Got my start at Apple Retail, configuring demo systems and imaging devices.
