@@ -34,4 +34,4 @@
 
 ---
 
-> _Always automating, always learning, always down to help fellow admins._
+> _Always automating, always iterating, always down to help others._
