@@ -35,4 +35,4 @@
 
 ---
 
-> _Always automating, always iterating, always down to help others._
+> _Always automating, always iterating, always helping others._
