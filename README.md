@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 👤 Pronouns: they/them/theirs or she/her/hers (either is equally fine)
+- 🏳️‍⚧️ Pronouns: they/them/theirs or she/her/hers (either is equally fine)
 - 🏆 Over 15 years in endpoint management & IT engineering
 - 🛠️ Previously Sr. IT Engineering Manager at Fastly and Professional Services Engineer at Jamf
 - 🍏 Got my start at Apple Retail, configuring demo systems and imaging devices
