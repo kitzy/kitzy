@@ -90,5 +90,4 @@ I’m also **[AuDHD](https://embrace-autism.com/an-introduction-to-audhd/) (auti
 - Ambiguity and unclear expectations (my brain fills in the blanks with chaos)  
 - Endless repetitive tasks  
 - Being taken for granted when I’ve overextended  
-- Meetings without structure or purpose  
 - Feeling like I have to “mask” my quirks  
