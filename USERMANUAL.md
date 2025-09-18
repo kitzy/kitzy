@@ -19,7 +19,7 @@ I’m also **[AuDHD](https://embrace-autism.com/an-introduction-to-audhd/) (auti
 ---
 
 ## My values
-- **Empathy as a baseline:** I believe work life is better when people look out for each other. Thoughtfulness and small acts of care go a long way with me.  
+- **Empathy as a baseline:** I believe life is better when people look out for each other. Thoughtfulness and small acts of care go a long way with me.  
 - **Curiosity first:** I’d rather ask questions and explore possibilities than pretend to know everything. For me, curiosity is the gateway to clarity.  
 - **Authenticity over polish:** I’d rather things be real and imperfect than fake and shiny. I value honesty and transparency, even when the truth is messy.  
 - **Growth and learning:** Mistakes happen; what matters is taking responsibility, adapting, and improving. I’ll own my work and my missteps, and I appreciate when others do too.  
