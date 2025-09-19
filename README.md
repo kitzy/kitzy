@@ -30,7 +30,3 @@
 ### 📫 Connect with Me
 
 - 💬 Message me on [MacAdmins Slack](https://www.macadmins.org/) (`@kitzy`)
-
----
-
-> _Always automating, always iterating, always helping others._
