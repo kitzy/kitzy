@@ -29,8 +29,6 @@
 
 ### 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/kitzy)
-- [Bluesky](https://bsky.app/profile/kitzy.com)
 - 💬 Message me on [MacAdmins Slack](https://www.macadmins.org/) (`@kitzy`)
 
 ---
