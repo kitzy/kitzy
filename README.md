@@ -11,16 +11,4 @@
 - 🛠️ Previously Sr. IT Engineering Manager at Fastly and Professional Services Engineer at Jamf
 - 🍏 Got my start at Apple Retail, configuring demo systems and imaging devices
 - 🌍 Passionate about infrastructure, automation, and making IT work smarter
-- 📖 Curious how I work best? Check out my [personal user manual](./USERMANUAL.md)
-
----
-
-### 🧰 Tech Stack & Skills
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-<br>
-💻 Infrastructure automation, endpoint management, and all things IT.
+- 📖 Curious how I work best? Check out my [README](https://kitzy.com/#readme))
