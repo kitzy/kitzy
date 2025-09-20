@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏳️‍⚧️ Pronouns: they/them/theirs or she/her/hers (either is equally fine)
+- 🏳️‍⚧️ Pronouns: they/them/theirs or she/her/hers (either are equally fine)
 - 💬 Co-founded the [MacAdmins Slack](https://www.macadmins.org/) in 2015
 - 📦 Contributor to [AutoPkg](https://github.com/autopkg/kitzy-recipes)
 - 💼 Customer Support Engineer at [@fleetdm](https://github.com/fleetdm)
