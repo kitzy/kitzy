@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 
 - 🏳️‍⚧️ Pronouns: they/them/theirs or she/her/hers (either are equally fine)
-- 💬 Co-founded the [MacAdmins Slack](https://www.macadmins.org/) in 2015
+- 💬 Co-founded the [MacAdmins Slack](https://www.macadmins.org/)
 - 📦 Contributor to [AutoPkg](https://github.com/autopkg/kitzy-recipes)
 - 💼 Customer Support Engineer at [@fleetdm](https://github.com/fleetdm)
 - 🍏 Got my start in Apple Retail, configuring demo systems and imaging devices
