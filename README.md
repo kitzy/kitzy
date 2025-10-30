@@ -7,6 +7,7 @@
 - 🎙️ Very occasional guest on the [MacAdmins Podcast](https://kitzy.com/podcasts/)
 - 💼 Customer Support Engineer at [Fleet](https://github.com/fleetdm)
 - 🎓 Three time community college drop out
+- 🎚️ Live sound engineer
 - 🏍️ Motorcycle rider
 - 🐶 Dog enthusiast
 
