@@ -6,6 +6,7 @@
 - 🎤 [Speaker](https://kitzy.com/talks/) at Penn State MacAdmins, MacAD.UK, and XWorld
 - 🎙️ Very occasional guest on the [MacAdmins Podcast](https://kitzy.com/podcasts/)
 - 💼 Customer Support Engineer at [Fleet](https://github.com/fleetdm)
+- 🎓 Three time community college drop out
 - 🏍️ Motorcycle rider
 - 🐶 Dog enthusiast
 
