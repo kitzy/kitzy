@@ -1,6 +1,5 @@
 # Hi, I'm Kitzy 👋🏻
 
-- 👤 Pronouns: they/them/theirs or she/her/hers (either are equally fine)
 - 💬 Co-founder of the [MacAdmins Slack](https://www.macadmins.org/)
 - 📦 Contributor to [AutoPkg](https://github.com/autopkg/kitzy-recipes)
 - 🎤 Speaker at Penn State MacAdmins, MacAD.UK, and XWorld
