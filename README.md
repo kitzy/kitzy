@@ -4,7 +4,7 @@
 - 📦 Contributor to [AutoPkg](https://github.com/autopkg/kitzy-recipes)
 - 🎤 Speaker at Penn State MacAdmins, MacAD.UK, and XWorld
 - 🎙️ Very occasional guest on the [MacAdmins Podcast](https://kitzy.com/podcasts/)
-- 💼 Customer Support Engineer at [Fleet](https://github.com/fleetdm)
+- 💼 Contributor at [Fleet](https://github.com/fleetdm)
 - 🎓 Three time community college drop out
 - 🎚️ Live sound engineer
 - 🏍️ Motorcycle rider
